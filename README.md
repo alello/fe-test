@@ -1,3 +1,15 @@
+Info:
+1) Installation create-react-app
+npx create-react-app react-sb-ts-rtl  --template typescript
+
+2) Installation storybook
+npx sb init
+
+3) Installation MUI - 4.3.3 versione in uso in atena-web
+4.12.3 • Public • Published 3 months ago
+npm i @material-ui/core
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
